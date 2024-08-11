@@ -1,15 +1,34 @@
 import json
 import random
+import re
 
-with open('scripts/quotes.json', 'r') as f:
+# Cargar las frases
+with open('scripts/quotes.json', 'r', encoding='utf-8') as f:
     data = json.load(f)
 
+# Seleccionar una frase aleatoria
 frase = random.choice(data['frases'])
 
-with open('index.html', 'r') as f:
+# Leer el contenido del archivo HTML
+with open('index.html', 'r', encoding='utf-8') as f:
     contenido = f.read()
 
-nuevo_contenido = contenido.replace('<h1>Frase actual</h1>', f'<h1>{frase}</h1>')
+# Reemplazar la frase actual con la nueva frase
+nuevo_contenido = re.sub(
+    r'<h1 class="quote">.*?</h1>',
+    f'<h1 class="quote">{frase}</h1>',
+    contenido
+)
 
-with open('index.html', 'w') as f:
+# Actualizar el título
+nuevo_contenido = re.sub(
+    r'<title>Motivate 👏\|.*?</title>',
+    f'<title>Motivate 👏| {frase}</title>',
+    nuevo_contenido
+)
+
+# Escribir el nuevo contenido en el archivo HTML
+with open('index.html', 'w', encoding='utf-8') as f:
     f.write(nuevo_contenido)
+
+print(f"Frase actualizada: {frase}")
