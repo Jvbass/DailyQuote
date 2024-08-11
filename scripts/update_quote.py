@@ -1,7 +1,7 @@
 import json
 import random
 
-with open('quotes.json', 'r') as f:
+with open('scripts/quotes.json', 'r') as f:
     data = json.load(f)
 
 frase = random.choice(data['frases'])
