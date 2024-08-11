@@ -3,6 +3,7 @@ name: Update Daily Phrase
 on:
   schedule:
     - cron: '0 0 * * *' # Ejecuta el script a la medianoche (UTC) todos los días
+  workflow_dispatch:
 
 jobs:
   update-phrase:
