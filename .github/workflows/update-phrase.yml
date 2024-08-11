@@ -27,3 +27,5 @@ jobs:
         git add index.html
         git commit -m "Update daily phrase $(date)"
         git push
+      env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
