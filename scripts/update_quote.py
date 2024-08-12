@@ -32,8 +32,8 @@ nuevo_contenido = re.sub(
 
 # Actualizar el título
 nuevo_contenido = re.sub(
-    r'<title>Motivate 👏\|.*?</title>',
-    f'<title>Motivate 👏| {frase}</title>',
+    r'<title>Motivate😉|.*?</title>', # RegEx para encontrar el título
+    f'<title>Motivate😉| {autor}</title>',
     nuevo_contenido
 )
 
