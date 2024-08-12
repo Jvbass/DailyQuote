@@ -1,8 +1,400 @@
 {
   "frases": [
-    "La vida es 10% lo que te sucede y 90% cómo reaccionas a ello.",
-    "El éxito es la suma de pequeños esfuerzos repetidos día tras día.",
-    "El único lugar donde el éxito viene antes que el trabajo es en el diccionario.",
-    "La mejor manera de predecir el futuro es creándolo."
+    {
+      "frase": "El único modo de hacer un gran trabajo es amar lo que haces.",
+      "autor": "Steve Jobs"
+    },
+    {
+      "frase": "No te preocupes por el fracaso, preocúpate por las oportunidades que pierdes cuando ni siquiera lo intentas.",
+      "autor": "Jack Canfield"
+    },
+    {
+      "frase": "La mejor manera de predecir el futuro es inventarlo.",
+      "autor": "Alan Kay"
+    },
+    {
+      "frase": "El éxito es la suma de pequeños esfuerzos repetidos día tras día.",
+      "autor": "Robert Collier"
+    },
+    {
+      "frase": "No puedo cambiar la dirección del viento, pero puedo ajustar mis velas para llegar siempre a mi destino.",
+      "autor": "Jimmy Dean"
+    },
+    {
+      "frase": "Cree que puedes y ya estás a medio camino.",
+      "autor": "Theodore Roosevelt"
+    },
+    {
+      "frase": "El fracaso es simplemente la oportunidad de comenzar de nuevo, esta vez con más inteligencia.",
+      "autor": "Henry Ford"
+    },
+    {
+      "frase": "La motivación es lo que te pone en marcha, el hábito es lo que hace que sigas.",
+      "autor": "Jim Ryun"
+    },
+    {
+      "frase": "La única forma de hacer un gran trabajo es amar lo que haces.",
+      "autor": "Steve Jobs"
+    },
+    {
+      "frase": "No importa lo despacio que vayas, siempre y cuando no te detengas.",
+      "autor": "Confucio"
+    },
+    {
+      "frase": "El único lugar donde el éxito viene antes que el trabajo es en el diccionario.",
+      "autor": "Vidal Sassoon"
+    },
+    {
+      "frase": "La mejor forma de predecir el futuro es creándolo.",
+      "autor": "Peter Drucker"
+    },
+    {
+      "frase": "El éxito no es la clave de la felicidad. La felicidad es la clave del éxito. Si amas lo que haces, tendrás éxito.",
+      "autor": "Albert Schweitzer"
+    },
+    {
+      "frase": "El éxito es la habilidad de ir de fracaso en fracaso sin perder el entusiasmo.",
+      "autor": "Winston Churchill"
+    },
+    {
+      "frase": "El único modo de hacer un gran trabajo es amar lo que haces.",
+      "autor": "Steve Jobs"
+    },
+    {
+      "frase": "No es la carga lo que te destruye, sino la forma en que la llevas.",
+      "autor": "Lou Holtz"
+    },
+    {
+      "frase": "La vida es 10% lo que te sucede y 90% cómo reaccionas a ello.",
+      "autor": "Charles R. Swindoll"
+    },
+    {
+      "frase": "El éxito consiste en ir de fracaso en fracaso sin perder el entusiasmo.",
+      "autor": "Winston Churchill"
+    },
+    {
+      "frase": "No dejes que el miedo a perder sea mayor que la emoción de ganar.",
+      "autor": "Robert Kiyosaki"
+    },
+    {
+      "frase": "El mayor placer en la vida es hacer lo que la gente dice que no puedes hacer.",
+      "autor": "Walter Bagehot"
+    },
+    {
+      "frase": "Si puedes soñarlo, puedes hacerlo.",
+      "autor": "Walt Disney"
+    },
+    {
+      "frase": "La mejor manera de empezar algo es dejar de hablar de ello y empezar a hacerlo.",
+      "autor": "Walt Disney"
+    },
+    {
+      "frase": "El camino al éxito y el camino al fracaso son casi exactamente el mismo.",
+      "autor": "Colin R. Davis"
+    },
+    {
+      "frase": "El éxito no es el final, el fracaso no es fatal: es el coraje para continuar lo que cuenta.",
+      "autor": "Winston Churchill"
+    },
+    {
+      "frase": "El único límite para nuestra realización de mañana serán nuestras dudas de hoy.",
+      "autor": "Franklin D. Roosevelt"
+    },
+    {
+      "frase": "El éxito es un estado mental. Si quieres éxito, empieza a pensar en ti mismo como un éxito.",
+      "autor": "Joyce Brothers"
+    },
+    {
+      "frase": "El éxito es el resultado de la perfección, el trabajo duro, aprender del fracaso, la lealtad y la persistencia.",
+      "autor": "Colin Powell"
+    },
+    {
+      "frase": "El secreto del éxito es hacer lo común extraordinariamente bien.",
+      "autor": "John D. Rockefeller"
+    },
+    {
+      "frase": "El éxito no es la clave de la felicidad. La felicidad es la clave del éxito.",
+      "autor": "Albert Schweitzer"
+    },
+    {
+      "frase": "La única manera de hacer un gran trabajo es amar lo que haces.",
+      "autor": "Steve Jobs"
+    },
+    {
+      "frase": "El éxito no es definitivo, el fracaso no es fatal: lo que cuenta es el valor para continuar.",
+      "autor": "Winston Churchill"
+    },
+    {
+      "frase": "No busques el éxito, busca la felicidad.",
+      "autor": "Steve Jobs"
+    },
+    {
+      "frase": "El éxito no es la ausencia de fracasos; es la persistencia a través del fracaso.",
+      "autor": "Aisha Tyler"
+    },
+    {
+      "frase": "El éxito es caer nueve veces y levantarse diez.",
+      "autor": "Jon Bon Jovi"
+    },
+    {
+      "frase": "El único lugar donde el éxito viene antes que el trabajo es en el diccionario.",
+      "autor": "Vidal Sassoon"
+    },
+    {
+      "frase": "No dejes que el miedo a perder sea mayor que la emoción de ganar.",
+      "autor": "Robert Kiyosaki"
+    },
+    {
+      "frase": "El éxito es un estado mental. Si quieres éxito, empieza a pensar en ti mismo como un éxito.",
+      "autor": "Joyce Brothers"
+    },
+    {
+      "frase": "El éxito es la suma de pequeños esfuerzos repetidos día tras día.",
+      "autor": "Robert Collier"
+    },
+    {
+      "frase": "El secreto del éxito es empezar.",
+      "autor": "Mark Twain"
+    },
+    {
+      "frase": "El éxito no es el final, el fracaso no es fatal: es el coraje para continuar lo que cuenta.",
+      "autor": "Winston Churchill"
+    },
+    {
+      "frase": "El éxito es obtener lo que deseas. La felicidad es disfrutar lo que obtienes.",
+      "autor": "Dale Carnegie"
+    },
+    {
+      "frase": "El éxito es el resultado de la perfección, el trabajo duro, aprender del fracaso, la lealtad y la persistencia.",
+      "autor": "Colin Powell"
+    },
+    {
+      "frase": "El único límite para nuestra realización de mañana serán nuestras dudas de hoy.",
+      "autor": "Franklin D. Roosevelt"
+    },
+    {
+      "frase": "El éxito es una decisión.",
+      "autor": "Jon Bon Jovi"
+    },
+    {
+      "frase": "El éxito consiste en ir de fracaso en fracaso sin perder el entusiasmo.",
+      "autor": "Winston Churchill"
+    },
+    {
+      "frase": "El éxito es obtener lo que deseas. La felicidad es desear lo que obtienes.",
+      "autor": "Dale Carnegie"
+    },
+    {
+      "frase": "El éxito es un viaje, no un destino.",
+      "autor": "Ben Sweetland"
+    },
+    {
+      "frase": "El éxito es una combinación de esfuerzo, talento y oportunidad.",
+      "autor": "Arnold Palmer"
+    },
+    {
+      "frase": "El éxito es como una escalera: no puedes subir con las manos en los bolsillos.",
+      "autor": "Anonymous"
+    },
+    {
+      "frase": "El éxito es el resultado de lo que haces repetidamente.",
+      "autor": "Shaquille O'Neal"
+    },
+    {
+      "frase": "La educación es el arma más poderosa que puedes usar para cambiar el mundo.",
+      "autor": "Paulo Freire"
+    },
+    {
+      "frase": "Donde hay un árbol que plantar, plántalo tú. Donde hay un esfuerzo que todos esquivan, hazlo tú.",
+      "autor": "Gabriela Mistral"
+    },
+    {
+      "frase": "No hay nada más poderoso que una idea a la que le ha llegado su tiempo.",
+      "autor": "José Martí"
+    },
+    {
+      "frase": "Podrán cortar todas las flores, pero no podrán detener la primavera.",
+      "autor": "Pablo Neruda"
+    },
+    {
+      "frase": "El respeto al derecho ajeno es la paz.",
+      "autor": "Benito Juárez"
+    },
+    {
+      "frase": "Sueña y serás libre en espíritu, lucha y serás libre en vida.",
+      "autor": "Ernesto 'Che' Guevara"
+    },
+    {
+      "frase": "La única lucha que se pierde es la que se abandona.",
+      "autor": "Eva Perón"
+    },
+    {
+      "frase": "La patria es dicha, dolor y cielo de todos y no feudo ni capellanía de nadie.",
+      "autor": "José Martí"
+    },
+    {
+      "frase": "El único camino que lleva a la vida es el amor.",
+      "autor": "Pedro Arrupe"
+    },
+    {
+      "frase": "La palabra es un arma de combate.",
+      "autor": "Simón Bolívar"
+    },
+    {
+      "frase": "Quien no es capaz de sacrificarse por los demás, no merece llamarse líder.",
+      "autor": "Eva Perón"
+    },
+    {
+      "frase": "Los hombres no viven de verdades absolutas sino de fe en lo que creen.",
+      "autor": "Carlos Fuentes"
+    },
+    {
+      "frase": "Solo el amor convierte en milagro el barro.",
+      "autor": "Silvio Rodríguez"
+    },
+    {
+      "frase": "La única lucha que se pierde es la que no se pelea.",
+      "autor": "Arturo Jauretche"
+    },
+    {
+      "frase": "Mi único héroe es el pueblo.",
+      "autor": "Chávez Frías"
+    },
+    {
+      "frase": "No soy libre mientras haya mujeres sometidas.",
+      "autor": "Manuela Sáenz"
+    },
+    {
+      "frase": "La grandeza de un hombre está en ser humano.",
+      "autor": "Ernesto 'Che' Guevara"
+    },
+    {
+      "frase": "La libertad no es un fin, es un medio para desarrollar nuestras fuerzas.",
+      "autor": "Pedro Figari"
+    },
+    {
+      "frase": "Es mejor morir de pie que vivir de rodillas.",
+      "autor": "Emiliano Zapata"
+    },
+    {
+      "frase": "La libertad, la justicia, la dignidad humana, no son concesiones que otros nos otorgan, sino derechos que conquistamos.",
+      "autor": "Salvador Allende"
+    },
+    {
+      "frase": "Cada persona forja su propio destino.",
+      "autor": "Miguel de Unamuno"
+    },
+    {
+      "frase": "No hay barrera, cerradura ni cerrojo que puedas imponer a la libertad de mi mente.",
+      "autor": "Virginia Woolf"
+    },
+    {
+      "frase": "Ser cultos para ser libres.",
+      "autor": "José Martí"
+    },
+    {
+      "frase": "Hay que endurecerse, pero sin perder la ternura jamás.",
+      "autor": "Ernesto 'Che' Guevara"
+    },
+    {
+      "frase": "El poder es como un violín. Se toma con la izquierda y se toca con la derecha.",
+      "autor": "Eduardo Galeano"
+    },
+    {
+      "frase": "La libertad es el derecho que tienen las personas de actuar libremente, pensar y hablar sin hipocresía.",
+      "autor": "José Martí"
+    },
+    {
+      "frase": "La verdad es siempre revolucionaria.",
+      "autor": "Antonio Gramsci"
+    },
+    {
+      "frase": "Nadie puede ser libre si no es culto.",
+      "autor": "José Martí"
+    },
+    {
+      "frase": "La única verdad es la realidad.",
+      "autor": "Aristóteles"
+    },
+    {
+      "frase": "La peor lucha es la que no se hace.",
+      "autor": "Carlos María de Alvear"
+    },
+    {
+      "frase": "Sin teoría revolucionaria no hay práctica revolucionaria.",
+      "autor": "Lenin"
+    },
+    {
+      "frase": "La educación no cambia el mundo, cambia a las personas que van a cambiar el mundo.",
+      "autor": "Paulo Freire"
+    },
+    {
+      "frase": "No existe libertad sin igualdad.",
+      "autor": "Salvador Allende"
+    },
+    {
+      "frase": "La política es el arte de hacer posible lo imposible.",
+      "autor": "Nicolás Maquiavelo"
+    },
+    {
+      "frase": "No se puede desatar un nudo sin saber cómo está hecho.",
+      "autor": "Aristóteles"
+    },
+    {
+      "frase": "Los hombres son dueños de su destino.",
+      "autor": "William Shakespeare"
+    },
+    {
+      "frase": "La historia es nuestra y la hacen los pueblos.",
+      "autor": "Salvador Allende"
+    },
+    {
+      "frase": "El deber de un revolucionario es hacer la revolución.",
+      "autor": "Ernesto 'Che' Guevara"
+    },
+    {
+      "frase": "Si no hay café para todos, no habrá para nadie.",
+      "autor": "Ernesto 'Che' Guevara"
+    },
+    {
+      "frase": "El hombre es libre en el momento en que desea serlo.",
+      "autor": "Voltaire"
+    },
+    {
+      "frase": "La verdad es hija del tiempo, no de la autoridad.",
+      "autor": "Francis Bacon"
+    },
+    {
+      "frase": "Quien no está dispuesto a perderlo todo, no está preparado para ganar nada.",
+      "autor": "Simon Bolívar"
+    },
+    {
+      "frase": "Es necesario que todos hagamos sacrificios para que el futuro sea mejor.",
+      "autor": "Simón Bolívar"
+    },
+    {
+      "frase": "La grandeza no consiste en recibir honores, sino en merecerlos.",
+      "autor": "Aristóteles"
+    },
+    {
+      "frase": "La esperanza es el sueño del hombre despierto.",
+      "autor": "Aristóteles"
+    },
+    {
+      "frase": "Todo lo que el hombre puede imaginar, otros hombres pueden hacerlo realidad.",
+      "autor": "Jules Verne"
+    },
+    {
+      "frase": "El tiempo es el mejor autor: siempre encuentra un final perfecto.",
+      "autor": "Charles Chaplin"
+    },
+    {
+      "frase": "El amor es la única cosa que crece cuando se reparte.",
+      "autor": "Antoine de Saint-Exupéry"
+    },
+    {
+      "frase": "El hombre que ha comenzado a vivir más seriamente por dentro, comienza a vivir más sencillamente por fuera.",
+      "autor": "Ernest Hemingway"
+    }
   ]
 }
