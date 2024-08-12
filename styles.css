@@ -10,7 +10,7 @@ body {
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  height: 100vh;
+  height: 90vh;
   margin: 0;
   background-color: #f4f4f4;
   color: #1c1c1c;
@@ -33,6 +33,7 @@ h3 {
   width: 70%;
   font-weight: bold;
 }
+
 
 /* Tema oscuro */
 body.dark-theme {
@@ -66,3 +67,28 @@ body.dark-theme::before {
 #theme-toggle img:hover {
   transform: scale(1.3);
 }
+
+
+/* Preferencia por tema oscuro */
+/*@media (prefers-color-scheme: dark) {
+  body {
+    background-color: #1c1c1c;
+    color: #f4f4f4;
+  }
+
+  h1, h3 {
+    color: #f4f4f4;
+  }
+}*/
+
+/* Preferencia por tema claro */
+/*@media (prefers-color-scheme: light) {
+  body {
+    background-color: #f4f4f4;
+    color: #1c1c1c;
+  }
+
+  h1, h3 {
+    color: #1c1c1c;
+  }
+}*/
